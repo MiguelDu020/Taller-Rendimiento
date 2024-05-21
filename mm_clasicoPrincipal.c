@@ -1,3 +1,11 @@
+/**************************************************************
+		Pontificia Universidad Javeriana
+	Autores:Miguel Duarte 
+ 		Daniela Moreno
+	Materia: Sistemas Operativos
+	Tema: Taller de Evaluación de Rendimiento
+	
+****************************************************************/
 #include <unistd.h>          
 #include <stdlib.h>          
 #include <time.h>            
