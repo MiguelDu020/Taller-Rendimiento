@@ -1,13 +1,10 @@
 /**************************************************************
-	Pontificia Universidad Javeriana
-	Autor: J. Corredor
-	Fecha: Febrero 2024
+		Pontificia Universidad Javeriana
+	Autores:Miguel Duarte 
+ 		Daniela Moreno
 	Materia: Sistemas Operativos
 	Tema: Taller de Evaluación de Rendimiento
-	Fichero:.h de multiplicación de matrices NxN por hilos.
-	Objetivo: Evaluar el tiempo de ejecución del 
-		      algoritmo clásico de multiplicación de matrices.
-			  Se implementa con la Biblioteca POSIX Pthreads
+	
 ****************************************************************/
 
 #ifndef _MULT_MATRICES_H_
